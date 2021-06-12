@@ -44,5 +44,3 @@ generate_video_from_obj(obj_path, video_path, renderer)
 !ffmpeg -i $video_path -vcodec libx264 $video_display_path -y -loglevel quiet
 video(video_display_path)
 ```
-
-<img width="400" alt="Screen Shot 2021-06-05 at 3 02 16 PM" src="https://user-images.githubusercontent.com/45449025/120881854-0bd13080-c60f-11eb-9c06-4c583af739f3.png">
