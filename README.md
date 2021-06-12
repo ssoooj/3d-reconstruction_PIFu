@@ -45,7 +45,4 @@ generate_video_from_obj(obj_path, video_path, renderer)
 video(video_display_path)
 ```
 
-## For more detail : 
-#### *https://youtu.be/Aa9cgU9t-58*
-
 <img width="400" alt="Screen Shot 2021-06-05 at 3 02 16 PM" src="https://user-images.githubusercontent.com/45449025/120881854-0bd13080-c60f-11eb-9c06-4c583af739f3.png">
